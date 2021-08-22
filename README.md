@@ -2,6 +2,10 @@
 
 Contains useful functions and tools for analysing spectra in chemistry.
 
+## Installation
+
+    pip install Spectra_Tools
+
 # NMR
 
 This package contains several useful utilities for analysing NMR spectra.
