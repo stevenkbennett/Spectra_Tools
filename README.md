@@ -15,6 +15,7 @@ The algorithm was based on the following papers:
  - [Fast and shift-insensitive similarity comparisons of NMR using a tree-representation of spectra](https://doi.org/10.1016/j.chemolab.2013.05.009)
 
 Code in this repository is a conversion from the original [GitHub repository](https://github.com/mljs/tree-similarity).
+All credit for ideas and code goes to the original authors.
 
 ## Usage
 
