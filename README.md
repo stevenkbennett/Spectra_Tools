@@ -27,7 +27,7 @@ All credit for ideas and code goes to the original authors.
 from spectra_tools.nmr.tree import create_tree, get_similarity
 
 # Nested list containing the spectra information.
-# Lists are of the form [peak_id, intensity].
+# Lists are of the form [[peak_id], [intensity]].
 a = [[1, 2, 3, 4, 5, 6, 7], [0.3, 0.7, 4, 0.3, 0.2, 5, 0.3]]
 b = [[1, 2, 3, 4, 5, 6, 7], [0.3, 4, 0.7, 0.3, 5, 0.2, 0.3]]
 
