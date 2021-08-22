@@ -2,12 +2,12 @@
 
 Contains useful functions and tools for analysing spectra in chemistry.
 
-## NMR
+# NMR
 
-### Usage
+## Usage
 
 
 
-## Mass Spectroscopy
+# Mass Spectroscopy
 
 TBC
