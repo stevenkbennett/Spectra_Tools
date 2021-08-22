@@ -12,7 +12,7 @@ This package contains several useful utilities for analysing NMR spectra.
 
 The first is a similarity based on a tree-representation of an spectra.
 
-The algorithm was based on the following papers:
+The algorithm is based on the following papers:
 
 
  - [A new method for the comparison of <sup>1</sup>H NMR predictors based on tree-similarity of spectra](https://doi.org/10.1186/1758-2946-6-9)
