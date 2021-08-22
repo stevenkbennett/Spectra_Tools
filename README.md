@@ -19,6 +19,8 @@ The algorithm was based on the following papers:
     </li>
 </ol>
 
+Code in this repository is a conversion from the original [GitHub repository](https://github.com/mljs/tree-similarity).
+
 ## Usage
 
 
