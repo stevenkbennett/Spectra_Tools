@@ -22,9 +22,20 @@ All credit for ideas and code goes to the original authors.
 ```python
 from spectra_tools.nmr.tree import create_tree, get_similarity
 
+a = [[1, 2, 3, 4, 5, 6, 7], [0.3, 0.7, 4, 0.3, 0.2, 5, 0.3]]
+b = [[1, 2, 3, 4, 5, 6, 7], [0.3, 4, 0.7, 0.3, 5, 0.2, 0.3]]
 
+options = { '_from': 1, '_to': 7 }
+
+# Convert a to a tree representation
+A = create_tree(a, options)
+
+# Calculate the similarity between A and b
+# b is converted to a tree representation in the `get_similarity` function
+similarity = get_similarity(A, b, options)
 
 ```
+
 
 
 # Mass Spectroscopy
