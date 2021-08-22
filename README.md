@@ -19,6 +19,13 @@ All credit for ideas and code goes to the original authors.
 
 ## Usage
 
+```python
+from spectra_tools.nmr.tree import create_tree, get_similarity
+
+
+
+```
+
 
 # Mass Spectroscopy
 
