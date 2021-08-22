@@ -4,7 +4,7 @@ Contains useful functions and tools for analysing spectra in chemistry.
 
 ## Installation
 
-    pip install Spectra_Tools
+    pip install spectra-tools
 
 # NMR
 
